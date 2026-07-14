@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Nelisiwe Maseko
 
-I'm a passionate beginner in the world of tech — currently exploring code, creativity, and content creation. I'm part of the **FNB App Academy 2025**, where I'm learning how to build real-world apps step by step.
+I'm a passionate beginner in the world of tech — currently exploring code, creativity, and content creation. I'm part of the **FNB App Academy **, where I'm learning how to build real-world apps step by step.
 
 ## 💻 What I'm Learning
 - HTML & CSS
